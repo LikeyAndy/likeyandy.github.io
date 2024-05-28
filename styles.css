@@ -78,14 +78,7 @@ section h2 {
     background-size: contain; /* or 'contain' if you prefer */
     background-position: center;
     background-repeat: no-repeat;
-    /* color: #fff;
-    text-align: center;
-    width: 100%;
-    height: 100vh; /* Adjust this value to match your image's aspect ratio */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; */
+
     /* originals below */
     /* background: #fff; */
     padding: 1rem;
