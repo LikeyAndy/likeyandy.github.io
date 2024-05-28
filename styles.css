@@ -75,7 +75,7 @@ section h2 {
 
 .project1 {
     background-image: url('brain.jpg'); /* Replace with your image */
-    background-size: cover; /* or 'contain' if you prefer */
+    background-size: contain; /* or 'contain' if you prefer */
     background-position: center;
     background-repeat: no-repeat;
     color: #fff;
@@ -86,7 +86,8 @@ section h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: #fff;
+    /* originals below */
+    /* background: #fff; */
     padding: 1rem;
     margin: 1rem 0;
     border-left: 4px solid #333;
