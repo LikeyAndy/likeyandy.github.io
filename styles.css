@@ -73,7 +73,38 @@ section h2 {
     color: #333;
 }
 
-.project {
+.project1 {
+    background-image: url('brain.jpg'); /* Replace with your image */
+    background-size: cover; /* or 'contain' if you prefer */
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    height: 100vh; /* Adjust this value to match your image's aspect ratio */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    padding: 1rem;
+    margin: 1rem 0;
+    border-left: 4px solid #333;
+    border-radius: 4px;
+}
+.project2 {
+    background-image: url('DNA.png'); /* Replace with your image */
+    background-size: cover; /* or 'contain' if you prefer */
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    height: 100vh; /* Adjust this value to match your image's aspect ratio */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background: #fff;
     padding: 1rem;
     margin: 1rem 0;
